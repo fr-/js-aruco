@@ -1,0 +1,24 @@
+{
+  "name": "js-aruco",
+  "version": "1.0.0",
+  "description": "JS port of ARUCO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr-/js-aruco.git"
+  },
+  "keywords": [
+    "ar",
+    "marker",
+    "cv",
+    "aruco"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fr-/js-aruco/issues"
+  },
+  "homepage": "https://github.com/fr-/js-aruco#readme"
+}
