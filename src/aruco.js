@@ -27,7 +27,7 @@ References:
 */
 
 module.exports = (function() {
-    var CV = require("cv");
+    var CV = require("./cv");
 
     var AR = AR || {};
 

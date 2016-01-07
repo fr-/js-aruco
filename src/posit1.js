@@ -28,7 +28,7 @@ References:
 */
 
 module.exports = (function() {
-    var SVD = require("svd");
+    var SVD = require("./svd");
 
     var POS = POS || {};
 
